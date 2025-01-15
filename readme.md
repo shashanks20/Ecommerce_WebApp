@@ -1,6 +1,6 @@
 # Shopping Cart Spring Boot Application
 
-## Demo Video Link : https://youtu.be/t7PKlWms5NI
+### Demo Video Link : https://youtu.be/t7PKlWms5NI
 
 ## Project Overview
 This project is a Shopping Cart web application built with Spring Boot. It leverages Spring Web, JPA, MySQL, and DevTools for backend development and uses HTML, CSS, and Bootstrap for the frontend. The database is managed using XAMPP's phpMyAdmin.
