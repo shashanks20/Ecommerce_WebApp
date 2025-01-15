@@ -64,7 +64,6 @@ http://localhost:8080
 - **Product Management**: Admin can add, update, and delete products.
 - **Shopping Cart**: Users can add products to the cart, update quantities, and remove items.
 - **Order Processing**: Checkout system to place orders.
-- **Email Notifications**: Sends order confirmation emails using SMTP.
 
 ## Technologies and Tools Used
 ### Dependencies
