@@ -1,4 +1,4 @@
-# ECommerce Spring Boot Application
+# E-commerce Spring Boot Application
 
 ### Demo Video Link : https://youtu.be/t7PKlWms5NI
 
