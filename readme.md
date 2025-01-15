@@ -1,4 +1,4 @@
-# Shopping Cart Spring Boot Application
+# ECommerce Spring Boot Application
 
 ### Demo Video Link : https://youtu.be/t7PKlWms5NI
 
