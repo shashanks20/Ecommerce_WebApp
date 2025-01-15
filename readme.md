@@ -13,7 +13,7 @@ This project is a Shopping Cart web application built with Spring Boot. It lever
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/shopping-cart-spring-boot-main.git
+git clone https://github.com/shashanks20/shopping-cart-spring-boot-main.git
 ```
 
 ### 2. Open the Project in IntelliJ IDEA CE
